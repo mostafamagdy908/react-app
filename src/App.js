@@ -4,6 +4,7 @@ import  "./index.css"
 const App = () => {
   return (
     <div className="title">
+       <h1>hellow version 2</h1>
       <h1> hellow </h1>
       <h2>mostafa koj</h2>
     </div>
